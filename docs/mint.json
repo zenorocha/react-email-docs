@@ -15,11 +15,9 @@
       "dark": "#111111"
     }
   },
-  "api": {
-    "baseUrl": "https://api.twelvelabs.io",
-    "auth": {
-      "method": "bearer"
-    }
+  "modeToggle": {
+    "default": "dark",
+    "isHidden": true
   },
   "topbarCtaButton": {
     "type": "github",
