@@ -63,5 +63,10 @@
   "classes": {
     "anchors": "group-hover:bg-gradient-to-tr from-primary to-primary-dark dark:from-[#61DAFB] dark:to-[#06BCEE]",
     "activeAnchors": "bg-gradient-to-tr"
+  },
+  "analytics": {
+    "ga4": {
+      "measurementId": "G-2LXLLQLM5D"
+    }
   }
 }
