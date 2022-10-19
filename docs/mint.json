@@ -54,7 +54,8 @@
         "components/container",
         "components/code",
         "components/pre",
-        "components/preview"
+        "components/preview",
+        "components/text"
       ]
     },
     {
