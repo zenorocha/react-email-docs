@@ -58,6 +58,15 @@
         "components/pre",
         "components/preview"
       ]
+    },
+    {
+      "group": "Integrations",
+      "pages": [
+        "integrations/nodemailer",
+        "integrations/sendgrid",
+        "integrations/postmark",
+        "integrations/aws-ses"
+      ]
     }
   ],
   "classes": {
